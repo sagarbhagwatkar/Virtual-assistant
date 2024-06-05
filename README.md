@@ -76,12 +76,9 @@ gmail-virtual-assistant/
 ## Contributing
 If you wish to contribute to the project, please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate documentation.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Thanks to the contributors and the open-source community for their support.
 - Special thanks to Google for providing the Gmail API.
 
 ## Contact
-For any questions or suggestions, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please reach out to sagarbhagwatkar99@gmail.com

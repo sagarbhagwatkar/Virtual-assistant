@@ -1,7 +1,7 @@
 # Gmail Virtual Assistant
 
 ## Overview
-The Gmail Virtual Assistant is a Dockerized application designed to automate the process of generating customized emails based on user inputs. It utilizes a Streamlit interface for user interactions and connects to the Ollama service for natural language processing and email content generation.
+The Gmail Virtual Assistant is a Dockerized application designed to automate the process of generating customized emails based on user inputs. It utilizes a Streamlit interface for user interactions and connects to the Ollama service for email content generation.
 
 ## Features
 - **Automated Email Generation:** Generate customized emails based on a provided topic, job description, and resume.
